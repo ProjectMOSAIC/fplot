@@ -1,10 +1,10 @@
 ---
-title: "Formulas with ggplot"
+title: "ggplot2 via Formulas"
 author: "Daniel Kaplan"
 date: "March 17, 2015"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteIndexEntry{ggplot2 via Formulas}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
