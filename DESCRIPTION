@@ -1,0 +1,19 @@
+Package: fplot
+Type: Package
+Title: Formlua Based Plotting
+Version: 0.0
+Date: 2015-05-15
+Author: Randall Pruim <rpruim@calvin.edu>, Daniel Kaplan <dtkaplan@macalester.edu>
+Maintainer: Randall Pruim <rpruim@calvin.edu>
+Description: This package provides a unified formula-based interface to plotting
+    routines in the ggplot2 and lattice packages.
+Depends: R (>= 3.0)
+License: GPL (>=2)
+LazyLoad: yes
+LazyData: yes
+Imports: 
+    ggplot2,
+    lattice,
+    mosaic
+Suggests: knitr
+VignetteBuilder: knitr
