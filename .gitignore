@@ -9,6 +9,6 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
-vignettes/*.R
+vignettes/DannysFirstExperiments*.R
 .Rproj.user
 inst/doc
