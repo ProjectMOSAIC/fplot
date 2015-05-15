@@ -15,5 +15,9 @@ Imports:
     ggplot2,
     lattice,
     mosaic
-Suggests: knitr
+Suggests: 
+    knitr,
+    dplyr,
+    formula.tools,
+    mosaicData
 VignetteBuilder: knitr
